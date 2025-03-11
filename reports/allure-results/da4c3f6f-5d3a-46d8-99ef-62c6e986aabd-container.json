@@ -1,0 +1,1 @@
+{"uuid": "65c7be63-9f6f-4c34-8e66-ba048109503d", "children": ["6fc6cfe6-fac5-4a0d-b787-1d5d036d0273"], "befores": [{"name": "logout_teardown", "status": "passed", "steps": [{"name": "Logout from the application", "status": "passed", "start": 1741722271551, "stop": 1741722271593}], "start": 1741722271551, "stop": 1741722271593}], "start": 1741722271551, "stop": 1741722271706}

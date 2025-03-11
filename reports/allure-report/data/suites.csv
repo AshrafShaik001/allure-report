@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5561","Login with invalid credentials","tests","Wed Mar 12 01:15:41 IST 2025","passed","Wed Mar 12 01:15:46 IST 2025","TestLogin","test_login","",""
+"","12432","Successful login with valid credentials","tests","Wed Mar 12 01:15:28 IST 2025","passed","Wed Mar 12 01:15:41 IST 2025","TestLogin","test_login","",""
+"","3697","Delete the goal","tests","Wed Mar 12 01:15:24 IST 2025","passed","Wed Mar 12 01:15:28 IST 2025","TestLeads","test_leads","",""
+"","15252","Add a new Lead and edit the lead","tests","Wed Mar 12 01:14:41 IST 2025","passed","Wed Mar 12 01:14:56 IST 2025","TestLeads","test_leads","",""
+"","5174","Login with empty fields","tests","Wed Mar 12 01:15:47 IST 2025","passed","Wed Mar 12 01:15:52 IST 2025","TestLogin","test_login","",""
+"","4966","Add a new goal","tests","Wed Mar 12 01:15:08 IST 2025","passed","Wed Mar 12 01:15:13 IST 2025","TestLeads","test_leads","",""
+"","113","Navigates to Leads page and verify page view","tests","Wed Mar 12 01:14:31 IST 2025","passed","Wed Mar 12 01:14:31 IST 2025","TestLeads","test_leads","",""
